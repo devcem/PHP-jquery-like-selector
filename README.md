@@ -16,7 +16,7 @@ Get Tweets by hashtag
 
 
 
-Get EkşiSözlük entrys
+Get EkşiSözlük entries
 
 	<?php
 		$content = $bone->get('https://eksisozluk.com/1112211-com--4457656?a=popular');
